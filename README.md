@@ -1,4 +1,4 @@
-# Usage Notes
+# Read Me
 MultiLanguageExport is an AppleScript to export text from multi-language Excel files on Mac OS.
 
 The description is at my blog post here.
